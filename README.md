@@ -5,8 +5,7 @@ Welcome to my GitHub profile! I'm Ermias Brhane, a computer science graduate wit
 ## Contact Information
 
 - **Email:** ermiasbirhanebabi@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [Your Twitter Handle](#)
+
 
 ## Skills
 
