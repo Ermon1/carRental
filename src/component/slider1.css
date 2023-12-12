@@ -1,0 +1,25 @@
+.image-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.responsive-image {
+  width: 100%;
+  height: auto;
+  max-height: 60vh; /* Adjust the max height value as needed */
+}
+
+@media (max-width: 768px) {
+  .responsive-image {
+    max-height: 50vh; /* Adjust the max height value for smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .responsive-image {
+    max-height: 35vh; /* Adjust the max height value for even smaller screens */
+  }
+}
+

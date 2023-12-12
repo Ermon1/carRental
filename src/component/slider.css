@@ -1,0 +1,10 @@
+.slider{
+    width: 100%;
+    height: 600px;
+    margin-top: 20px;
+    background-color: gray;
+
+    transition: ease-in-out;
+   
+  
+}

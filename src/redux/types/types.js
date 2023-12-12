@@ -1,0 +1,10 @@
+// types.js
+
+export const REGISTER_USER = "REGISTER_USER";
+export const CLEAR_USER = "CLEAR_USER";
+export const REGISTER_USER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_USER_FAILURE = "REGISTER_FAILURE";
+export const CLEAR_REGISTRATION_STATUS = "CLEAR_REGISTRATION_STATUS";
+// authActionTypes.js
+
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
